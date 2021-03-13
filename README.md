@@ -3,3 +3,6 @@ What's the most positive or negative religion? . Sentiment and Data Analysis o
 
 ### *Versión en español*
 ¿Cuál es la religión más positiva o negativa?. Análisis de datos y sentimientos de Libros Sagrados con R. Análisis de dogmas religiosos mediante la exploración de sus libros sagrados (La Biblia, El Corán, El Dhammapada y El Libro de Mormón) con R. Artículo en Medium: https://cosmoduende.medium.com/cu%C3%A1l-ser%C3%A1-la-religi%C3%B3n-m%C3%A1s-positiva-o-negativa-an%C3%A1lisis-de-sentimientos-de-libros-sagrados-con-r-5d83646bc356
+
+#### *Project preview*
+https://www.youtube.com/watch?v=0XR3Tea94js
